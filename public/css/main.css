@@ -1,0 +1,18 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.room_share{font-size: 1.5em;}
+.room_share a:hover{ text-decoration: none;}
+.room_title{color:#0F7DDE;}
+.room_share_address{font-weight: bold;font-size:1.2em; }
+.navbar {
+    margin-bottom: 20px;
+    background: #7BD454;
+}
+.navbar-nav>li>a{color: #fff; padding: 30px;font-size:1.5em;font-family: 'open sans', sans-serif; font-weight: normal;}
+
+.room_details_listing p{background: #F8F9F4;padding: 10px; margin-top: 5px;}
+.room_details_description p{background: #FFFFFF;padding: 20px 0px 20px 0px;font-family: 'open sans', sans-serif; text-align: justify}
+.social_authoer_name_section{padding: 10px 0px 0px 0px;}
+.social_authoer_name_section p{padding: 15px 0px 0px 0px;}
