@@ -31,19 +31,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FeedsController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FeedsController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/FeedsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="5" selection-start="120" selection-end="120" vertical-scroll-proportion="0.17265193" vertical-offset="0" max-vertical-offset="724">
+            <state line="5" column="5" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flat_feed.blade.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="flat_feed.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/feeds/flat_feed.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="0" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.0" vertical-offset="1151" max-vertical-offset="1950">
+            <state line="63" column="10" selection-start="1573" selection-end="1573" vertical-scroll-proportion="0.7237569" vertical-offset="1051" max-vertical-offset="1775">
               <folding />
             </state>
           </provider>
@@ -759,16 +759,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/feeds/flat_feed.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/FeedsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.0" vertical-offset="1151" max-vertical-offset="1950">
+        <state line="5" column="5" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/FeedsController.php">
+    <entry file="file://$PROJECT_DIR$/app/views/feeds/flat_feed.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="5" selection-start="120" selection-end="120" vertical-scroll-proportion="0.17265193" vertical-offset="0" max-vertical-offset="724">
+        <state line="63" column="10" selection-start="1573" selection-end="1573" vertical-scroll-proportion="0.7237569" vertical-offset="1051" max-vertical-offset="1775">
           <folding />
         </state>
       </provider>

@@ -4,10 +4,7 @@
 
 <div class="col-md-4">
     <p>Up Coming Events: </p>
-    <p>Event One happening in Dallas DFW right now</p>
-    <p>Event One happening in Dallas DFW right now</p>
-    <p>Event One happening in Dallas DFW right now</p>
-    <p>Event One happening in Dallas DFW right now</p>
+
 </div>
 <div class="col-md-4 find_book">
     {{ Form::open() }}
@@ -63,10 +60,6 @@
                 @endforeach
             </div>
         </div>
-
-    </div>
-    <div class="col-md-12">
-        <p>Ride Share: </p>
 
     </div>
 </div>
